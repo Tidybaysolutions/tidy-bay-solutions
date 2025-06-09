@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Tidy Bay Solutions - Trusted Cleaning Service in Corner Brook, Newfoundland and Labrador">
+  <meta name="author" content="Tidy Bay Solutions">
+  <title>Tidy Bay Solutions</title>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+</head>
+
+<body>
+  <header class="hero">
+    <div class="hero-content">
+      <h1>Welcome to <span>Tidy Bay Solutions</span></h1>
+      <p>Your trusted cleaning partner in Corner Brook, Newfoundland and Labrador.</p>
+      <a href="#about" class="cta-button">Learn More About Us</a>
+    </div>
+  </header>
+
+  <!-- About Section -->
+  <section id="about" class="about-section">
+    <h2>About Us</h2>
+    <p>Tidy Bay Solutions has been providing professional, reliable cleaning services to Corner Brook since 2019. We specialize in residential cleaning services, offering quality, efficiency, and attention to detail.</p>
+    <a href="#services" class="cta-button">Our Services</a>
+  </section>
+
+  <!-- Services Section -->
+  <section id="services" class="services-section">
+    <h2>Our Services</h2>
+    <div class="service">
+      <h3>Residential Cleaning</h3>
+      <p>We provide expert cleaning for homes, ensuring your living spaces stay spotless and inviting.</p>
+    </div>
+    <div class="service">
+      <h3>Move-in / Move-out Cleaning</h3>
+      <p>Our move-in and move-out cleaning services make sure your property is left pristine for the next residents.</p>
+    </div>
+    <div class="service">
+      <h3>Commercial Cleaning</h3>
+      <p>We offer tailored cleaning solutions for offices and businesses to ensure a clean and professional environment.</p>
+    </div>
+    <a href="#contact" class="cta-button">Contact Us for a Quote</a>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact" class="contact-section">
+    <h2>Contact Us</h2>
+    <p>If you're ready for the Tidy Bay Solutions experience or have any questions, reach out today!</p>
+    <p>Email: info@tidybaysolutions.com</p>
+    <p>Phone: 123-456-7890</p>
+  </section>
+
+  <!-- Footer Section -->
+  <footer>
+    <p>&copy; 2025 Tidy Bay Solutions. All Rights Reserved.</p>
+  </footer>
+
+</body>
+
+</html>
